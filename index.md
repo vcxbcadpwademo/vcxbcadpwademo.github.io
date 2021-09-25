@@ -1,0 +1,15 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title>Angularpwaapp</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+<link rel="stylesheet" href="styles.31d6cfe0d16ae931b73c.css"></head>
+<body>
+  <app-root></app-root>
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
+<script src="runtime.dd542dcef1e7eeb15871.js" defer></script><script src="polyfills.baf0e16dd4be0b027a4a.js" defer></script><script src="main.3518917ed6a67f7bd4f3.js" defer></script>
+
+</body></html>
